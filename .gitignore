@@ -1,0 +1,12 @@
+.vscode/
+node_modules/
+tests/
+todo.md
+.env.local
+.env.production
+.env.testing
+*.log
+public/uploads/audios/*
+public/uploads/images/*
+public/uploads/pdfs/*
+public/uploads/encrypted_audios*
